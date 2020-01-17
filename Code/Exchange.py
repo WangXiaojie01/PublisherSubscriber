@@ -5,7 +5,6 @@
 '''
 copyright @wangxiaojie 2020.01.16
 author: wangxiaojie
-version: V0.1.1
 '''
 
 import os, sys
